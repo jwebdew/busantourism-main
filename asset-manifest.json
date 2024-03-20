@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5f4c8dd.css",
+    "main.js": "/static/js/main.b8e61d87.js",
+    "static/js/453.a7a2b631.chunk.js": "/static/js/453.a7a2b631.chunk.js",
+    "static/media/KoPubWorldDotumLight.eot": "/static/media/KoPubWorldDotumLight.c45eaf9a22fc1cc775f5.eot",
+    "static/media/KoPubWorldDotumMedium.eot": "/static/media/KoPubWorldDotumMedium.748dc5ee2cbfd7eb6a71.eot",
+    "static/media/KoPubWorldDotumBold.eot": "/static/media/KoPubWorldDotumBold.af0e3f456b68d6401aa0.eot",
+    "static/media/KoPubWorldDotumMedium.woff": "/static/media/KoPubWorldDotumMedium.5169ccb5da3b22b9252c.woff",
+    "static/media/KoPubWorldDotumBold.woff": "/static/media/KoPubWorldDotumBold.c0b07b6b63705159c56f.woff",
+    "static/media/KoPubWorldDotumLight.woff": "/static/media/KoPubWorldDotumLight.42a9ef3a3f61227e5c71.woff",
+    "static/media/KoPubWorldDotumBold.woff2": "/static/media/KoPubWorldDotumBold.f1d1f3bbb5b24caf255f.woff2",
+    "static/media/KoPubWorldDotumMedium.woff2": "/static/media/KoPubWorldDotumMedium.47ad2f8849cd80b19c15.woff2",
+    "static/media/KoPubWorldDotumLight.woff2": "/static/media/KoPubWorldDotumLight.bd4637d65e0e242f1227.woff2",
+    "index.html": "/index.html",
+    "main.a5f4c8dd.css.map": "/static/css/main.a5f4c8dd.css.map",
+    "main.b8e61d87.js.map": "/static/js/main.b8e61d87.js.map",
+    "453.a7a2b631.chunk.js.map": "/static/js/453.a7a2b631.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5f4c8dd.css",
+    "static/js/main.b8e61d87.js"
+  ]
+}
